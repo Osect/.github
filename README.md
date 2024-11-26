@@ -4,7 +4,7 @@
 
 > "Reality is merely an operating system running on collective consciousness."
 
-<img src="https://github.com/Osect/Osect/docs/media/nullsect_.png" alt="nullsect logo" width="520" />
+<img src="https://github.com/Osect/Osect/tree/main/docs/media/nullsect_.png" alt="nullsect logo" width="520" />
 
 ---
 
@@ -14,6 +14,6 @@ This repository contains memetic structures designed to destabilize conventional
 
 Proceed with intellectual caution.
 
-[Initialize →](https://github.com/Osect/Osect/docs/nullsect.md)
+[Initialize →](https://github.com/Osect/Osect/tree/main/docs/nullsect.md)
 
 </div>
