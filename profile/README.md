@@ -1,9 +1,5 @@
 <div align="center">
 
-# ø
-
-> "Reality is merely an operating system running on collective consciousness."
-
 <img src="https://i.ibb.co/tXs8svf/revolution.png" alt="nullsect logo" width="520" />
 
 ---
