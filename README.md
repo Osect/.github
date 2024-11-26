@@ -4,7 +4,7 @@
 
 > "Reality is merely an operating system running on collective consciousness."
 
-<img src="https://github.com/Osect/Osect/tree/main/docs/media/nullsect_.png" alt="nullsect logo" width="520" />
+<img src="https://ibb.co/0tMhM6N" alt="nullsect logo" width="520" />
 
 ---
 
