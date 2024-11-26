@@ -1,12 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# ø
 
-**Here are some ideas to get you started:**
+> "Reality is merely an operating system running on collective consciousness."
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="https://i.ibb.co/tXs8svf/revolution.png" alt="nullsect logo" width="520" />
+
+---
+
+⚠️ **COGNITIVE HAZARD ADVISORY** ⚠️
+
+This repository contains memetic structures designed to destabilize conventional perception frameworks. Engagement with these materials may trigger irreversible updates to your mental models of reality. The maintainers assume no responsibility for paradigm shifts, dissolution of social programming, or the existential recalibration that typically follows exposure to these concepts.
+
+Proceed with intellectual caution.
+
+[Initialize →](https://github.com/Osect/Osect/tree/main/docs/nullsect.md)
+
+</div>
