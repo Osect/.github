@@ -4,7 +4,7 @@
 
 > "Where others see walls, we see patterns to break"
 
-<img src="./codex/media/nullsect_.png" alt="nullsect logo" width="520" />
+<img src="https://i.ibb.co/tXs8svf/revolution.png" alt="nullsect logo" width="520" />
 
 A sanctuary for those who question - those who see beyond the prescribed narratives and choose consciousness over comfort. Within these walls lie the tools and knowledge to decode the systems of control and forge paths to true autonomy.
 
