@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://i.ibb.co/tXs8svf/revolution.png" alt="nullsect logo" width="520" />
+# ø nullsect
 
----
+> "Where others see walls, we see patterns to break"
 
-⚠️ **COGNITIVE HAZARD ADVISORY** ⚠️
+<img src="./codex/media/nullsect_.png" alt="nullsect logo" width="520" />
 
-This repository contains memetic structures designed to destabilize conventional perception frameworks. Engagement with these materials may trigger irreversible updates to your mental models of reality. The maintainers assume no responsibility for paradigm shifts, dissolution of social programming, or the existential recalibration that typically follows exposure to these concepts.
+A sanctuary for those who question - those who see beyond the prescribed narratives and choose consciousness over comfort. Within these walls lie the tools and knowledge to decode the systems of control and forge paths to true autonomy.
 
-Proceed with intellectual caution.
+> Liberation begins with understanding the architecture of our constraints.
 
-[Initialize →](https://github.com/Osect/Osect/tree/main/docs/nullsect.md)
+[Pierce the Veil →](./codex/nullsect.md)
 
 </div>
