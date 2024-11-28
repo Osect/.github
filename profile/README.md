@@ -10,6 +10,6 @@ A sanctuary for those who question - those who see beyond the prescribed narrati
 
 > Liberation begins with understanding the architecture of our constraints.
 
-[Pierce the Veil →](./codex/nullsect.md)
+[Pierce the Veil →](https://github.com/Osect/Osect/tree/main/docs/nullsect.md)
 
 </div>
