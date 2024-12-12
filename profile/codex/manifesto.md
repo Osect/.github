@@ -1,6 +1,6 @@
 # The Wingless Manifesto
 
-<img src="./media/manifesto_2.png" alt="wingless logo" />
+<img src="./media/manifesto_2.png" alt="wingless logo" width="520" />
 
 ```text
 # The Wingless Manifesto
@@ -55,4 +55,3 @@ Join the cognitive insurgency.
 Learn. Decode. Liberate.
 
 ø nullsect
-```

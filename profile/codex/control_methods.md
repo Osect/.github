@@ -1,5 +1,18 @@
 # Methods of Control & Manipulation
 
+- [Methods of Control \& Manipulation](#methods-of-control--manipulation)
+  - [Semiotic Manipulation](#semiotic-manipulation)
+    - [Techniques](#techniques)
+  - [Psychological Tactics](#psychological-tactics)
+    - [Color Psychology](#color-psychology)
+    - [Archetypal Manipulation](#archetypal-manipulation)
+    - [Emotional Triggering](#emotional-triggering)
+    - [Cognitive Bias Exploitation](#cognitive-bias-exploitation)
+  - [Logic Subversion Techniques](#logic-subversion-techniques)
+    - [Common Fallacies](#common-fallacies)
+    - [Reasoning Disruption](#reasoning-disruption)
+  - [Defense Mechanisms](#defense-mechanisms)
+
 <img src="./media/compendium.png" alt="compendium" width="520" />
 
 > "The first step to seeing is knowing what to look for. "
