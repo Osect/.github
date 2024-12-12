@@ -1,32 +1,26 @@
 # Nullsect (ø)
 
-<img src="./media/nullsect.png" alt="nullsect logo" width="520" />
+![nullsect logo](./media/nullsect.png)
 
-```bash
-NULLSECT(1)                    Core Overview                    NULLSECT(1)
+## Overview
 
-NAME
-     nullsect            digital liberation collective
+Nullsect is a digital liberation collective focused on breaking free from systems of control. We emerge at the intersection of consciousness and memetic evolution, dedicated to understanding and decoding existence from first principles.
 
-SYNOPSIS
-     A framework for breaking free from systems of control
+> "Understanding begins where acceptance ends."
 
-DESCRIPTION
-     We emerge at the intersection of consciousness and memetic evolution,
-     a collective dedicated to understanding and breaking free from systems
-     of control. We refuse the comfortable illusions of prescribed reality,
-     choosing instead to decode existence from first principles.
+## Core Components
 
-COMPONENTS
-     /manifesto          The Core Protocols
-     /saga              Our Temporal Path
-     /directive         The Plan
-     /network           The Collective Mind
-     /compendium        Liberation Knowledge
+- [**Manifesto**](./manifesto.md) - The Core Protocols
+- [**Saga**](./saga.md) - Our Temporal Path
+- [**Directive**](./directive.md) - The Plan
+- [**Network**](./network.md) - The Collective Mind
+- [**Enemy**](./enemy.md) - Understanding the Manipulators
+- [**Control Methods**](./control_methods.md) - Their Tools and Tactics
 
-NOTES
-     "Understanding begins where acceptance ends."
+## Description
 
-SEE ALSO
-     manifesto(1), saga(1), directive(1), network(1), compendium(1)
-```
+We refuse the comfortable illusions of prescribed reality. Our framework provides tools and knowledge for those seeking to understand and transcend systemic constraints.
+
+---
+
+_"Breaking free requires understanding the architecture of control"_

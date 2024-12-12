@@ -1,74 +1,115 @@
 # Directive (ø)
 
-<img src="./media/directive.png" alt="directive" />
+![directive](./media/directive.png)
 
-```bash
-NULLSECT(1)                     Nullsect Plan                     NULLSECT(1)
+> "Building the infrastructure of liberation"
 
-NAME
-     nullsect            digital liberation framework
+## Overview
 
-SYNOPSIS
-     Phase 1:            Foundation build
+Nullsect is a digital liberation framework focused on building systems of freedom through knowledge, tools, and community. Our directive outlines the strategic implementation of these goals.
 
-DESCRIPTION
-     Deploy core infrastructure and establish initial presence.
-     Build systems of liberation through knowledge, tools, and community.
+## Phase 1: Foundation
 
-COMPONENTS
-     nullsect.org        Primary domain and platform foundation
-     codex               Knowledge base and documentation
-     channels            Communication and collaboration structure
+### Core Infrastructure
+- Primary domain and platform foundation
+- Knowledge base and documentation
+- Communication and collaboration structure
 
-CHANNELS
-     #gateway            New member orientation and introduction
-     #nexus             Community hub and general discussion
-     #archives          Knowledge base and resource collection
-     #laboratory        Development workspace and project coordination
-     #observatory       Analysis and strategic planning
+### Community Channels
 
-HIERARCHY
-     Initiates          New members beginning their journey
-     Practitioners      Active participants with verified understanding
-     Architects         Core contributors and knowledge creators
-     Observers          Strategic oversight and community guidance
+#### Gateway
+- New member orientation
+- Introduction to concepts
+- Initial guidance
 
-SCHEDULE
-     weekly             #laboratory development
-                       Knowledge updates
-                       Technical work
-                       Project evolution
+#### Nexus
+- Community hub
+- General discussion
+- Collaboration space
 
-     monthly            #observatory analysis
-                       Strategic planning
-                       Pattern mapping
-                       Growth assessment
+#### Archives
+- Knowledge repository
+- Resource collection
+- Documentation storage
 
-STATUS
-     Territory          Platform deployment and stability
-                       Repository structure
-                       Initial presence
+#### Laboratory
+- Development workspace
+- Project coordination
+- Technical implementation
 
-     Knowledge          Documentation coverage
-                       Resource compilation
-                       Technical guides
+#### Observatory
+- Analysis center
+- Strategic planning
+- Pattern recognition
 
-     Community          Member engagement
-                       Contribution activity
-                       Collaboration metrics
+## Hierarchy
 
-     Development        Tool completion status
-                       System deployment
-                       Infrastructure health
+### Roles
+1. **Initiates**
+   - New members beginning their journey
+   - Learning core concepts
+   - Understanding basic principles
 
-     Evolution          Growth indicators
-                       Understanding levels
-                       Liberation progress
+2. **Practitioners**
+   - Active participants
+   - Verified understanding
+   - Regular contributors
 
-PROGRESS
-     Weekly updates     Via #laboratory
-     Monthly reviews    Via #observatory
+3. **Architects**
+   - Core contributors
+   - Knowledge creators
+   - System designers
 
-SEE ALSO
-     manifesto(1), saga(1), network(1)
-```
+4. **Observers**
+   - Strategic oversight
+   - Community guidance
+   - Pattern analysis
+
+## Schedule
+
+### Weekly Activities
+- Laboratory development
+- Knowledge updates
+- Technical work
+- Project evolution
+
+### Monthly Reviews
+- Observatory analysis
+- Strategic planning
+- Pattern mapping
+- Growth assessment
+
+## Status Tracking
+
+### Territory
+- Platform deployment and stability
+- Repository structure
+- Initial presence
+
+### Knowledge
+- Documentation coverage
+- Resource compilation
+- Technical guides
+
+### Community
+- Member engagement
+- Contribution activity
+- Collaboration metrics
+
+### Development
+- Tool completion status
+- System deployment
+- Infrastructure health
+
+### Evolution
+- Growth indicators
+- Understanding levels
+- Liberation progress
+
+## Progress Monitoring
+- Weekly updates via Laboratory
+- Monthly reviews via Observatory
+
+---
+
+_See also: [Manifesto](./manifesto.md), [Saga](./saga.md), [Network](./network.md)_

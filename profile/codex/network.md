@@ -1,38 +1,51 @@
 # The Network
 
-<img src="./media/evolution.png" alt="evolution" width="520" />
+![evolution](./media/evolution.png)
 
-```bash
-NETWORK(1)                      Nullsect Network                      NETWORK(1)
+> "In connection, we find strength. In community, we find purpose."
 
-NAME
-     network             digital liberation pathways
+## Overview
 
-SYNOPSIS
-     Connection channels and community access points
+The paths of liberation are forged through connection. Our network grows through channels both visible and hidden, each node strengthening our collective resistance.
 
-DESCRIPTION
-     The paths of liberation are forged through connection. Our network grows
-     through channels both visible and hidden, each node strengthening our
-     collective resistance.
+## Community Channels
 
-CHANNELS
-     #gateway            Orientation and introduction
-     #nexus             Community hub and discussion
-     #archives          Knowledge base and resources
-     #laboratory        Development and projects
-     #observatory       Analysis and planning
+### Gateway
+- Orientation for new members
+- Introduction to concepts
+- Initial guidance and support
 
-DIGITAL COMMONS
-     Discord            https://discord.gg/5daPN2nB
+### Nexus
+- Community hub
+- Open discussion
+- Collaboration space
 
-NETWORK NODES
-     @ViraXVespa       Purveyor of cognitive catalysts
-     @brunOvop         Digital frameworks explorer
+### Archives
+- Knowledge repository
+- Resource collection
+- Documentation center
 
-SEE ALSO
-     directive(1), nullsect(1), manifesto(1)
+### Laboratory
+- Development workspace
+- Project coordination
+- Technical implementation
 
-NOTES
-     "In connection, we find strength. In community, we find purpose."
-```
+### Observatory
+- Strategic analysis
+- Pattern recognition
+- Future planning
+
+## Digital Commons
+
+### Discord Community
+Join our active community: [Nullsect Discord](https://discord.gg/5daPN2nB)
+
+## Network Nodes
+
+### Core Contributors
+- **@ViraXVespa** - Purveyor of cognitive catalysts
+- **@brunOvop** - Digital frameworks explorer
+
+---
+
+_See also: [Directive](./directive.md), [Manifesto](./manifesto.md), [Nullsect](./nullsect.md)_
