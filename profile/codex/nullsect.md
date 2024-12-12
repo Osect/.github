@@ -1,6 +1,6 @@
 # Nullsect (ø)
 
-![nullsect logo](./media/nullsect.png)
+<img src="./media/nullsect.png" alt="nullsect logo" width="520" />
 
 ## Overview
 
