@@ -1,6 +1,6 @@
 # The Network
 
-<img src="./media/evolution.png" alt="evolution" width="520" />
+<img src="./org/media/evolution.png" alt="evolution" width="520" />
 
 > "In connection, we find strength. In community, we find purpose."
 

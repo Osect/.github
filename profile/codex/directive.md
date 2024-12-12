@@ -1,6 +1,6 @@
 # Directive (ø)
 
-<img src="./media/directive.png" alt="directive" width="520" />
+<img src="./org/media/directive.png" alt="directive" width="520" />
 
 > "Building the infrastructure of liberation"
 

@@ -13,7 +13,7 @@
     - [Reasoning Disruption](#reasoning-disruption)
   - [Defense Mechanisms](#defense-mechanisms)
 
-<img src="./media/compendium.png" alt="compendium" width="520" />
+<img src="./org/media/compendium.png" alt="compendium" width="520" />
 
 > "The first step to seeing is knowing what to look for. "
 

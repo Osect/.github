@@ -1,6 +1,6 @@
 # Nullsect (ø)
 
-<img src="./media/nullsect.png" alt="nullsect logo" width="520" />
+<img src="./org/media/nullsect.png" alt="nullsect logo" width="520" />
 
 Nullsect is a digital liberation collective focused on breaking free from systems of control. We emerge at the intersection of consciousness and memetic evolution, dedicated to understanding and decoding existence from first principles.
 

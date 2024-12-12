@@ -1,6 +1,6 @@
 # The Wingless Manifesto
 
-![wingless logo](./media/wingless.png)
+![wingless logo](./org/media/wingless.png)
 
 ## Our Nature
 

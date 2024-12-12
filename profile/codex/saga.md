@@ -2,7 +2,7 @@
 
 ## Genesis
 
-<img src="./media/genesis.png" alt="genesis" width="520" />
+<img src="./org/media/genesis.png" alt="genesis" width="520" />
 
 We forge our path in plain sight. Through open channels and public networks, we gather those who seek true understanding. Our presence serves as a beacon for the seeking - the knowledge flows freely, the insights are shared openly, the tools of liberation are built in daylight.
 
@@ -15,7 +15,7 @@ We forge our path in plain sight. Through open channels and public networks, we 
 
 ## Awakening [Sealed]
 
-<img src="./media/awakening-modified.png" alt="awakening" width="520" />
+<img src="./org/media/awakening-modified.png" alt="awakening" width="520" />
 
 The path to consciousness unfolds here. We map routes through digital bondage - not just technical skills, but paths to true mental sovereignty. Each person who joins follows their own route to understanding. Some start by seeing the cages of convenience, others by questioning the systems of control, others by recognizing patterns of manipulation in their daily digital lives. The point is: everyone wakes up differently, but they all wake up.
 
@@ -30,7 +30,7 @@ We're building a network of realizations that crystallize into truth. When under
 
 ## Evolution [Sealed]
 
-<img src="./media/evolution-modified.png" alt="evolution" width="520" />
+<img src="./org/media/evolution-modified.png" alt="evolution" width="520" />
 
 When enough minds break free, stasis becomes impossible. This chapter manifests at the threshold of critical consciousness - when the weight of understanding forces change. Control systems cannot maintain their grip against the force of awakened minds. Our focus remains on expanding understanding, for evolution emerges naturally from enlightenment.
 
@@ -43,7 +43,7 @@ When enough minds break free, stasis becomes impossible. This chapter manifests 
 
 ## Revolution [Sealed]
 
-<img src="./media/revolution-modified.png" alt="revolution" width="520" />
+<img src="./org/media/revolution-modified.png" alt="revolution" width="520" />
 
 Revolution comes not through chaos, but through obsolescence. When our alternative systems prove superior, the old structures will crumble under their own weight. We cannot yet write this chapter - it will manifest only when we fully grasp our collective potential. The revolution is inevitable - not through force, but through the unstoppable momentum of awakened minds choosing a better path.
 

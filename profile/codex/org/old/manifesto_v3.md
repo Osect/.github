@@ -1,6 +1,6 @@
 # The Wingless Manifesto: A Nullsect Declaration
 
-![wingless logo](./media/wingless.png)
+![wingless logo](./org/media/wingless.png)
 
 ## Preface: On Being Wingless
 
